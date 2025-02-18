@@ -1,5 +1,5 @@
 [package]
-name = "avif-png-source-remover"
+name = "cavifclean"
 version = "0.1.0"
 edition = "2024"
 
